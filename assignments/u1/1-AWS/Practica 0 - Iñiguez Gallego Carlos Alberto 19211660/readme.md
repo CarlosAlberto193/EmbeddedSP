@@ -34,6 +34,11 @@
   <img src="Imagenes/6.PNG">
 </p>
 
+## EXTRA POR ARM
+<p align="center">
+  <img src="Imagenes/7.png">
+</p>
+
 ## 4️⃣Evidencia de ASCIINEMA4️⃣
 <p align="center">
 <a href="https://asciinema.org/a/Ngo3hWB1jZ3Z8TBLe6hXHSsLI">
